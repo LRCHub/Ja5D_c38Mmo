@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "ちっぽけな勇気",
+  "base_artist": "FUNKY MONKEY BABYS",
+  "createdAt": "2025-12-02T11:22:33.125260Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ちっぽけな勇気",
+      "artist": "FUNKY MONKEY BABYS",
+      "has_synced": false,
+      "path": "select/pl_01_ちっぽけな勇気_FUNKY_MONKEY_BABYS.txt"
+    }
+  ]
+}
